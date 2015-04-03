@@ -1,0 +1,30 @@
+p {
+	width: 250px;
+	margin: 10px;
+	padding: 40px 20px;
+	border: 3px dotted #333;
+	background-color: orange;
+}
+
+span {
+	width: 250px;
+	font-size: 14px;
+	background-color: orange;
+	padding: 10px;
+	border: 1px dotted black;
+	margin: 10px 0px;
+	display: inline-block;
+
+}
+
+div {
+	width: 250px;
+	font-size: 16px;
+	background-color: #999;
+	padding: 10px;
+	border: 1px dotted black;
+}
+/*
+.pic {
+	float:right;
+}*/

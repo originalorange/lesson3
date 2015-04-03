@@ -1,0 +1,47 @@
+.content {
+	width: 900px;
+	margin: 0 auto;
+}
+
+.left {
+	width:280px;
+	float: left;
+	margin-right: 30px;
+}
+
+.center {
+	width:280px;
+	float: left;
+	margin-right: 30px;
+}
+
+.right {
+	width:280px;
+	float: left;
+}
+
+img {
+	width: 100%;
+	margin: 10px 0 10px 0;
+	border: 2px solid orange;
+}
+
+h1 {
+	font-family: georgia;
+	font-size: 42px;
+	color: #666;
+}
+
+h3 {
+	color: orange;
+	font-family: helvetica, sans-serif;
+	font-size: 24px;
+	text-decoration: none;
+}
+
+p {
+	color: #333;
+	font-family: helvetica, sans-serif;
+	font-size: 14px;
+	text-align: justify;
+}
